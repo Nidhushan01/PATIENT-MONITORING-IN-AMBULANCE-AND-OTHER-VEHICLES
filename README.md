@@ -1,4 +1,5 @@
-# PATIENT-MONITORING-IN-AMBULANCE-AND-OTHER-VEHICLES
+# VitalSync - Patient monitoring in ambulance and other vehicles
+
 
 Introduction
 
